@@ -6,7 +6,7 @@
 > 
 > Mostly playing around with `.config`
 > 
-> Handing off the think to AI is a sin, and I'm no sinner
+> Handing off the thinking to AI is a sin, and I'm no sinner
 > 
 > Master of Jack, All of None "
 > 
@@ -18,11 +18,13 @@ Currently shipping production systems for 3rd-party clients at **Evolit** - web 
 **What I actually care about**
 - Architecture diagrams that survive contact with reality
 - Micro-interactions and padding down to the pixel
-- Editor configs tuned until the dev loop stops fighting back
+- Configure everything I touch/use
+- Your rice? Our rice
 
 **On the bench**
 - Going deeper on AWS.
 - Agentic workflows - currently using Claude Code and/or Pi Agent with a [local MCP adapter](https://github.com/VinhLe1410/pi-local-mcp-adapter)
 
 **What I've been using lately**
+
 `TypeScript` · `React` · `SvelteKit` · `Tailwind` · `AWS CDK` · `Node` · `Bun`
