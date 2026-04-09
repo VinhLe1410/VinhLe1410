@@ -13,6 +13,7 @@
 > **- Sun Tzu**
 
 Data Science Graduate turn Full-Stack Developer halfway into the degree. 
+
 Currently shipping production systems for 3rd-party clients at **Evolit** - web apps, extensions, data pipelines, workflows, you name it. Mostly on AWS.
 
 **What I actually care about**
