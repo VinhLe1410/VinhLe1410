@@ -1,10 +1,15 @@
 ## This Bio is sponsored by [my own resume](https://vinhle1410.github.io/my-resume/)
 
-> Occasionally write good code
+> " Occasionally write good code
+> 
 > Frequently ping team leader at 7PM
+> 
 > Mostly playing around with `.config`
+> 
 > Handing off the think to AI is a sin, and I'm no sinner
-> Master of Jack, All of None
+> 
+> Master of Jack, All of None "
+> 
 > **- Sun Tzu**
 
 Data Science Graduate turn Full-Stack Developer halfway into the degree. 
