@@ -1,16 +1,23 @@
-## Hi there 👋
+## This Bio is sponsored by [my own resume](https://vinhle1410.github.io/my-resume/)
 
-<!--
-**VinhLe1410/VinhLe1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Occasionally write good code
+> Frequently ping team leader at 7PM
+> Mostly playing around with `.config`
+> Handing off the think to AI is a sin, and I'm no sinner
+> Master of Jack, All of None
+> **- Sun Tzu**
 
-Here are some ideas to get you started:
+Data Science Graduate turn Full-Stack Developer halfway into the degree. 
+Currently shipping production systems for 3rd-party clients at **Evolit** - web apps, extensions, data pipelines, workflows, you name it. Mostly on AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I actually care about**
+- Architecture diagrams that survive contact with reality
+- Micro-interactions and padding down to the pixel
+- Editor configs tuned until the dev loop stops fighting back
+
+**On the bench**
+- Going deeper on AWS.
+- Agentic workflows - currently using Claude Code and/or Pi Agent with a [local MCP adapter](https://github.com/VinhLe1410/pi-local-mcp-adapter)
+
+**What I've been using lately**
+`TypeScript` · `React` · `SvelteKit` · `Tailwind` · `AWS CDK` · `Node` · `Bun`
